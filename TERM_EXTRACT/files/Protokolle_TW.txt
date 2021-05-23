@@ -1,0 +1,43 @@
+Industrieforum:
+Mit zwei neuen Mitgliedern und kam das DTT-Industrieforum am 6. Oktober zum zweiten Mal in digitaler Form zusammen. Aufgrund der letzten Monate waren alle Teilnehmer aber sehr geübt mit Telefonkonferenzen, so dass ein konstruktiver und informativer Austausch auch mit 23 Teilnehmern problemlos möglich war und zivil vonstatten ging.
+
+Tagesfüllendes Thema diesmal: Austausch über Terminologieworkflowprozesse mit dem Ziel der Erstellung eines Kriterienkataloges. Im Fokus standen Funtionen, Schnittstellen, Rechte- und Rollenkonzepte sowie Automatisierungsoptionen, um den Workflow von der Anfrage, über die Validierung bis zur Bereitstellung in allen Situationen und Systemen zu gewährleisten. Das Ergebnis aus bestehenden und gewünschten Workflowanforderungen floss ein in einen Kriterienkatalog für Terminologieworkflowtools, der im Rahmen des kommenden Treffens vervollständigt werden soll.
+
+Wie üblich waren aber auch zahlreiche mehr oder weniger angrenzende Themenbereiche von Interesse, die nicht auf der Tagesordnung standen. Großes Interesse bestand an der derzeit zu beobachtenden politischen Sprachsensibilisierung und den damit verbundenen Anforderungen an das Terminologiemanagement. Die Sensibilisierung bezieht sich nicht mehr nur allein auf das Gendern, sondern auf die Vermeidung von diskriminierender Sprache im Allgemeinen, wie beispielsweise die im IT-Bereich verwendeten "Master/Slave"-Bezeichnungen oder die "Black- bzw. Whintelist". Doch auch wenn der Änderungswille vorhanden ist, ist eine schnelle Lösung häufig nicht ohne Weiteres möglich. Die über Jahrzehnte historisch gewachsenen Begriffe sowie die damit verbundenen Konzepte sind meist fester Bestandteil von Programmstrukturen und die Auswirkungen einer Änderung sind teilweise weitreichender, als auf den ersten Blick ersichtlich. Manchmal derart weitreichend, dass es Vorstandsentscheide bedarf, um die Änderungen und die damit verbundenen Aufwände anzugehen.
+
+Und da die Zeit des Treffens von zwei mal zwei Stunden wie im Flug verging und noch zahlreiche Themen unangesprochen blieben, haben sich die Mitglieder dafür ausgesprochen, sich zukünftig häufiger zu treffen. Somit wird das Industrieforum in Zukunft alle vier Monate zusammenkommen. Da ist erfreulich und zeigt, wie wichtig der Austausch ist und wie sehr Unternehmen davon profitieren. 
+
+Die genauen Termine der kommenden beiden Treffen befinden sich derzeit in Abstimmung, festgelegt sind allerdings die Themen: im Januar wird das Industrieforum zu den Themen "Finalisierung des Kriterienkataloges für Workflowtools" sowie "Terminologie in der Maschinellen Übersetzung" zusammenkommen. Im März/April wird es dann um "Terminologiequalität (Datenbankstruktur, Datenkategorien, etc.)" und "Übersetzungsqualität" gehen. Mit an Sicherheit grenzender Wahrscheinlichkeit und unser aller Gesundheit zum Wohl werden auch die kommenden Treffen noch digital stattfinden. Und irgendwann, nach Corona, darauf freuen sich alle Teilnehmer bereits heute, soll es dann rotierende Treffen geben, bei denen alle teilnehmenden Unternehmen, die willens sind und über die räumlichen Möglichkeiten verfügen, gern Gastgeber des Forum sein können.
+
+An dieser Stelle möchten möchten wir uns noch ganz herzlich bei einer Teilnehmerin der (nahezu) ersten Stunde für die zahlreichen fachlichen wie herzlichen Stunden bedanken und verabschieden uns nur schweeren Herzens von Dir: Ute, wir wünschen Dir einen schönen Ruhestand! Solltest Du Dich sehnen: Du bist immer willkommen; und sorgen wirst Du Dich auch nicht, denn Christoph wird Dich gut vertreten!
+
+
+STATUS QUO B1:
+
+Für die Komponente der Maschinellen Übersetzung wird derzeit mit einem direkten Sprachpaar von IBM Watson gearbeitet; sowohl DE-FR, als auch FR-DE.
+Das Training der Engine ist sowohl 
+	- korpusbasiert: ca. 6000 Segmente pro Sprachrichtung, jeweils separat aufbereitet: Ausgangstext = variantenreich, Zieltext = konsistent
+	- glossarbasiert: ca. 400 Begriffe pro Sprachrichtung, jeweils separat aufbereitet: Ausgangstext = variantenreich, Zieltext = konsistent; Begriffe in diversen Flexionen
+
+Status:
+Die besonderheiten des Prohjektes liegen im speziellen Sprachgebrauch folgender Faktoren:
+	STIL = umgangssprachlich (z. B.: "Lass laufen.", "Kannst los.")
+	IDIOMATIK: ausgeprägt (z. B.: "Im Gleis..."; "Signal stellen...", etc.)
+	Terminologie: ausgeprägte Fachsprache ("Schotterzwerg", "Rotausleuchtung", "Ablaufberg", etc.)
+	
+Entwicklung:   BLEU-Wert von 71 (FR-DE) bzw. 75 (DE-FR); generisch: 45 bzw. 48
+
+Status Quo (weiterhin bestehende Probleme):
+	IDIOMATIK:
+	- seingeschränktes Adaptionsverhalten vor allem von Verben (Idiomatik); können aufgrund der ausgeprägten Flexion nicht via Glossar hinterlegt werden
+	TERMINOLOGIE:
+	- morphosyntaktische Terminologieintegration (Terminologie kann derzeit nur starr hinterlegt werden, entspricht search&replace; diese Methode der Terminologieintegration führt zu Beeinträchtigung der grammatikalischen Struktur: ...
+	- 
+	
+Lösungsansatz:
+
+	- beständig neues Trainingsmaterial (pro Sprachrichtung)
+	- andere Engines (DFKI)
+
+
+	

@@ -1,0 +1,87 @@
+﻿Von Maryline Hernandez an alle:  09:07 AM
+könnten Sie vielleicht die Ansicht auf "Vollbildschirm" wechseln?
+Von mir an alle:  09:08 AM
+Ich sehe Vollbildschirm. Vielleicht die Ansicht bei Dir ändern, Maryline.
+Von Lisa Geldermann | Lindmanns an alle:  09:10 AM
+Über die Ansicht oben rechts können Sie auf "Zu Vollbildmodus wechseln" klicken. Dann sollte sich die Ansicht ändern.
+Von Maryline Hernandez zu mir:  (Direktnachricht) 09:10 AM
+die Menüs von Acrobat wären bei Vollbildschirm weg, ist nicht so schlimm, die Grafik wird sie wohl erläutern
+Von Stéphanie Tuyttens #Terminologiemanagement#Sprachdatenverwaltung an alle:  09:10 AM
+Ja, aber die PDF ist nicht in Vollbildmodus.
+Von Stéphane Carsenty an alle:  09:11 AM
+(ist eben der Nachteil von PDFs gegenüber PPTs im Slideshow-Modus)
+Von Elena Krieg an alle:  09:11 AM
+Auf der rechten Seite ist eine Linie zu sehen (vor dem Bild der Vortragenden), die könnte man nach rechts verschieben, das Bild der Präsentation wird größer.
+Von Kristine Veseli an alle:  09:12 AM
+Vollbildmodus im PDF geht mit STRG+L
+Von Juliane Rembeck an alle:  09:16 AM
+ich möchte noch eine Frage für die spätere Diskussion festhalten: Hat jemand Erfahrung mit Change-Management Modellen? jede Veränderung (auch Systemeinführung und/oder Prozessänderung) hat ja mit Bewusstseins-Aufbau, Wunsch erzeugen, Wissen aufbauen, Fähigkeiten aufbauen und die Verankerung (nachhaltige Umsetzung) sicherstellen (z.B. Modell nach ProSci)
+Von Katharina Müller#bassd scho#ljaguschka puteschestweniza an alle:  09:21 AM
+Können wir die Powerpointpräsentation(nen) am Ende des Symposiums erhalten?
+Von Donatella Pulitano an alle:  09:21 AM
+Ja, alle Folien werden auf der DTT-Webseite veröffentlicht
+(Tradition!!)
+Von Katharina Müller#bassd scho#ljaguschka puteschestweniza an alle:  09:21 AM
+Super :-)
+Von Stefanie Sprenger an alle:  09:24 AM
+Frage zum Vortrag: Welche Begriffe pflegt ihr in der Datenbank? Eher technischer Natur und Produktnamen?
+Von Angelika Albani an alle:  09:25 AM
+Könnte man bitte die Grafik mal etwas größer sehen.
+Von Tamara Arndt an alle:  09:26 AM
+Alle Vortragsfolien werden nach dem Symposion auch zum Download auf der DTT-Website zur Verfügung stehen und können in Ruhe studiert werden :)
+Von Stéphane Carsenty an alle:  09:26 AM
+Sehr interessanter Bericht. Gab es Wiederstände (z.B. personenbezogen) bei der Bereinigung der Altlasten?
+Von Andre Busch an alle:  09:30 AM
+Haben Sie die Auszeichnung der Begriffsbeziehungen standardisiert bzw. eine Art Auswahlliste erstellt? Gerade bei nicht-hierarchischen Begriffsbeziehungen kann es ja schnell unübersichtlich werden
+Von Petra Drewer an alle:  09:30 AM
+Das leidenschaftliche Plädoyer für klare und aussagekräftige Begriffssysteme spricht mir aus der Seele. :) Super!
+Von Damian K. an alle:  09:31 AM
+Super Vortrag, vielen Dank! :)
+Von Florian Deubzer #Wissensorganisation #BierkastenBackground an alle:  09:31 AM
+Werden die Begriffssysteme auch schon als Nachschlagewerk oder für andere Use-Cases ("KI-Anwendungen") genutzt? Und gibt es da eine QS, dass keine Relationen "falsch" angelegt werden, oder wird das komplett den Fachexperten überlassen?
+Von Ute Rummel #wandern an alle:  09:31 AM
+Super, danke Fabienne!
+Von Petra Drewer an alle:  09:31 AM
+Wie viele Personen stecken hinter den 5 Rollen?
+Von Michaela Landhäußer Fiducia & GAD an alle:  09:31 AM
+Toller Vortrag
+Von Katharina Müller#bassd scho#ljaguschka puteschestweniza an alle:  09:31 AM
+Wie funktioniert das dann mit dem Controlled-Language-Checker? Kann der überhaupt diese Beziehungen mit berücksichtigen? Unser Terminologiechecker prüft stumpf nach Wort im AT ...
+Von Lena Krauß #Termextraktion #terminologyenthusiast an alle:  09:32 AM
+Wie werden begriffliche Unterschiede dargestellt (z.B. wenn es im Deutschen ein anderes Begriffssystem gibt als im Englischen)?
+Von Fiona Blechschmidt an alle:  09:32 AM
+In welcher Position haben Sie angefangen, die ganze Thematik umzusetzen? Und welche Unterstützung war dabei (eigenes Management)?
+Von Melanie Diener #Sprachenvielfalt #Werkzeuge an alle:  09:32 AM
+Vielen Dank für den tollen Vortrag!
+Von David Bodensohn an alle:  09:33 AM
+Vielen Dank für den tollen Vortrag! Können Sie sagen, wie lange das Projekt schon läuft? Also über welchen Zeitraum haben sich die Projektplanung, Auswahl des Systems erstreckt?
+Von Andre Busch an alle:  09:33 AM
+Könnten Sie sich vorstellen, die Relationen in verschiedenen Sprachen bereitzustellen? Falls man mehrsprachige Bezeichnungen in Ihrem Tool hinterlegen kann
+Von Fiona Blechschmidt an alle:  09:33 AM
+In welcher Größenordnung ist der Checker geplant? "Nur" für die primären Schreiber (technische Redaktion, Marketing, ..) oder für alle?
+Von Susanna Akdut#cert_expert#tech_writer#tekom_be an alle:  09:33 AM
+Vielen Dank für den super Vortrag! Wie läuft die Kommunikation weltweit? Online-Plattform?
+Von Katharina Munk (Klarso GmbH) an alle:  09:36 AM
+Sie haben die Begriffssystem-Ontologie-Umwandlung erwähnt. Gibt es bei Endress+Hauser ein eigenes Team, das das Begriffssytem zu Ontologien umwandelt und was passiert dann damit?
+Von Sabine Mahr #techwriter #jallabine an alle:  09:36 AM
+Total interessanter Vortrag, danke!
+Von Daniela Fleck an alle:  09:37 AM
+Vielen Dank, Fabienne. Ein sehr guter Vortrag!
+Von Anna Hudert an alle:  09:38 AM
+Füttert die Terminologie ein MÜ-Tool?
+Von Gaby Breitfeld#Übersetzungsmanagement#CL# an alle:  09:39 AM
+Vielen herzlichen Dank für diesen interessanten Vortrag. Als Einzelkämpferin bin ich wirklich neidisch.
+Von Cecilia Mongardi an alle:  09:40 AM
+Toller Vortrag, inspirierend und motivierend! Danke!
+Von Katharina Müller#bassd scho#ljaguschka puteschestweniza an alle:  09:40 AM
+Super, danke :-)
+Von Margarita Becker-Naumann an alle:  09:40 AM
+Lobens- und auch ein bisschen beneidenswert :) Einen herzlichen Dank für den tollen Vortrag!
+Von Florian Deubzer #Wissensorganisation #BierkastenBackground an alle:  09:40 AM
+Ein sehr motivierender Vortrag, wenn man sieht, was alles geht. :-) Danke!
+Von Roland Heidel Convenor IEC TC65 WG 23 an alle:  09:40 AM
+Die Produkte werden mittels Merkmalen charakterisiert. Diese sind in großen Teilen bereits im Verein ECLASS e.V und in IEC standardisiert
+Von Melanie Diener #Sprachenvielfalt #Werkzeuge an alle:  09:41 AM
+Gute Idee!
+Von Petra Sweekhorst an alle:  09:42 AM
+Danke, dass Ihr die Chat-Verläufe im Nachgang zur Verfügung stellen werdet.
